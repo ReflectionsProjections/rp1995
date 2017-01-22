@@ -1,0 +1,76 @@
+<HTML>
+
+<TITLE>The 1995 Midwestern ACM Chapter Conference</TITLE>
+<!-- Changed by: joel jones, 19-Sep-1995 -->
+<!-- Changed by: Ben Gross, 29-Sep-1995 -->
+<!-- Changed by: B.Swetland, 4-Oct-1995 -->
+<!-- Changed by: Ben Gross, 11-Oct-1995 -->
+<!-- Changed by: joel jones, 21-Oct-1995 -->
+<BODY>
+
+<P ALIGN=CENTER><IMG SRC="images/acmlogo4.gif"></P>
+<H1><P ALIGN=CENTER>The 1995 Midwestern ACM Chapter Conference</p></H1>
+<P align=center>
+<IMG align=center SRC="images/conf-theme.gif">
+</p>
+<p align=center><em>3-5 November 1995, Urbana, IL  U.S.A.</em>
+
+<HR>
+
+<H2><P ALIGN=CENTER>Welcome to the 1995 Midwestern ACM Chapter Conference Information page.
+<p align=center>
+(Open to everyone!)
+<p>
+The Conference</H2>
+
+The 1995 Midwestern ACM Chapter Conference theme is "Reflections | Projections."
+Our hope is to bring both student and professional chapters together to
+look at where the computer industry has been, and to assert our control
+over where it is going.  Our keynote speaker will be Steve Wozniak,
+co-founder of Apple Computer Inc.  The conference will consist of many
+activities for all.  Besides the employment expo and programming contest
+we are busy arranging speakers for talks and panels covering all
+aspects of computer usage.  If you have any ideas on speakers (from your
+institution or otherwise) or specific topics,
+<A HREF="mailto:reflections@acm.uiuc.edu">let us know.</A>
+<P>   
+<H2>Information Available on the Conference</H2> 
+<dl>
+<dt><b>Advance Program Items</b>
+<dd><a href="schedule.html">TEXT based schedule (NO TABLES!)</a>
+<dd><a href="prog.html">Programming Contest</a>
+<dd><a href="flyer01.ps">Conference flyer (Postscript 874K)</a>
+<dd><a href="official_sponsors.html">Corporate Sponsors <i>as of 10/31</i>.</a> 
+<dt><b>Calls for Participation</b>
+<dd><a HREF="student.html">Students</a>
+<dd><a href="corporate.html">Corporate Registrants</a>
+<dt><b>General Conference Stuff</b>
+<dd><a HREF="times.html">Tentative schedule</A>
+<dd><a href="committee.html">The Conference Committee</a>
+<dt><b>Registration</b>
+<dd><A HREF="studentreg.html">Register as an attendee.</A> <BR>
+<dd><A HREF="conf-regform.ps">Postscript Registration Form</A>
+<dd><A HREF="corpform.html">Register as a corporation.</A>
+<dd><a href="volunteer.html">Register as a local volunteer.</a>
+<dd><A HREF="progreg.html">Register a Programming Contest Team.</A>
+<dd><A HREF="hotel.html">Hotel Registration.</A>
+<dd><A HREF="otherLodging.html">Other Lodging.</A>
+<dt><b>General Champaign-Urbana Stuff</b>
+<dd><a href="http://www.uiuc.edu/navigation/locator.html">Maps</a>
+<dd><A HREF="gopher://wx.atmos.uiuc.edu/00/Illinois/Short%20Term%20Fcst%20%28Springfield%29">Weather forecast</A>
+<dd><A HREF="http://www.uiuc.edu/fun/rec.top.html">Recreation</A>
+<dd><A HREF="http://www.prairienet.org/SiliconPrairie/ccnet.html">Champaign County, Illinois</A>
+<dt><b>Postscript Fliers, Announcements, Propaganda, etc...</b>
+<dd><a href="conf-regform.ps">Conference Registration Form (439 K)</a>
+	<a href="conf-regform.ps.gz">(gzipped version - 226 K)</a>
+<dd><a href="flyer01.ps">Conference Flyer (871 K)</a>
+<dd><a href="prog-flyer1.ps">Programming Contest Flyer (1 M)
+	<a href="prog-flyer1.ps.gz">(gzipped version - 111 K)</a>
+</dl>
+
+<p><hr>
+<br>
+Last Update: 9/29/95 bgross
+
+</BODY>
+</HTML>
